@@ -4,7 +4,13 @@
 [![Discord](https://img.shields.io/discord/1293105990476103720?logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.gg/Ewm8aTTJ3K)
 
 ## Dragon Mounts: Spellbound Skies
-Dragon Mounts: Spellbound Skies (formerly DragonCraft) is the official third add-on in the series which takes the Dragon Mounts concept into a more magic focused theming. It includes special features that adds quality of life improvements, cut content, and different play styles compared to it's prequel Dragon Mounts 2.
+Formerly known as DragonCraft. This is the official third add-on in the series which takes the Dragon Mounts concept into a more magic focused theming. It includes special features that adds wild dragons, magic spells and boss battles.
+
+It is a different add-on compared to it's prequel Dragon Mounts 2.
+
+> The project is still in BETA. Expect a lot of bugs.
+
+> Disclaimer: You have to play the Dragon Mounts add-ons by themselves, not together!
 
 ## Download Links
 - [CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/dragon-mounts-v1-3-25)

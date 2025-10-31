@@ -12,7 +12,7 @@ Dragon Mounts: Spellbound Skies (formerly DragonCraft) is the official third add
 - [ModBay](https://modbay.org/mods/5196-dragon-mounts-3.html)
 
 ## Disclaimer
-This is unrelated to "Dragon Mounts 3" which is outdated and unoriginal. Anything outside of Dragon Mounts: Spellbound Skies is unofficial.
+This is unrelated to "Dragon Mounts 3". Anything outside of Dragon Mounts: Spellbound Skies is unofficial.
 
 ## License
 The add-on's binaries, as well as it's entire code is licensed under **All Rights Reserved**.

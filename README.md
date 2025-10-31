@@ -23,6 +23,6 @@ This is unrelated to "Dragon Mounts 3". Anything outside of Dragon Mounts: Spell
 ## License
 The add-on's binaries, as well as it's entire code is licensed under **All Rights Reserved**.
 
-Dragon Mounts: Spellbound Skies are owned by Myro.
+Dragon Mounts: Spellbound Skies is owned by Myro.
 
 © 2018-2025 Dragon Mounts Team.

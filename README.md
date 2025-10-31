@@ -1,4 +1,4 @@
-![LOGO](https://media.forgecdn.net/attachments/1290/838/logodm3.png)
+![LOGO](https://github.com/Tomanex/Image-dumping/blob/main/mods/dragon-mounts/logo3.png?raw=true)
 
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1328825?logo=Curseforge&label=CurseForge&labelColor=Gray)](https://www.curseforge.com/minecraft-bedrock/addons/dragon-mounts-v1-3-25)
 [![Discord](https://img.shields.io/discord/1293105990476103720?logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.gg/Ewm8aTTJ3K)
